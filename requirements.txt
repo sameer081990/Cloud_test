@@ -1,0 +1,11 @@
+pip>=9.0.1
+Flask==0.12.2
+requests
+requests-cache
+plotly
+passlib
+itsdangerous
+flask_httpauth
+cassandra−driver
+uuid
+os
